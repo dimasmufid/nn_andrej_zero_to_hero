@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nn_andrej_zero_to_hero"
+  site-url: "https://dimasmufid.github.io/nn_andrej_zero_to_hero"
+  description: "the place where i take notes and experiment on andrej neural network course on zero to hero"
+  repo-branch: main
+  repo-url: "https://github.com/dimasmufid/nn_andrej_zero_to_hero"
